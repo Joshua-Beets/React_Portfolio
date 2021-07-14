@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={love} className="App-logo" alt="logo" />
         <h1>
-         Joshua T. Beets
+         My babe and I
         </h1>
       </header>
     </div>
